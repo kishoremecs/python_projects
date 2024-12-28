@@ -1,0 +1,11 @@
+env/
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+*.egg-info/
+.git/
+.gitignore
+tests/
